@@ -16,9 +16,9 @@ Please review the considerations below to make sure we have a great event. Conta
 
 ## Accessibility
 
-*   Provide **open captioning **for the audience.
+*   Provide **open captioning** for the audience.
 *   Ensure **all official event venues are accessible** to people with mobility issues, including people who use wheelchairs. Please document where that’s not possible and make that documentation readily available to attendees.
-*   Reserve some** seating in the front rows** for people with vision impairments.
+*   Reserve some **seating in the front rows** for people with vision impairments.
 *   Run a **financial aid**, scholarship, opportunity grant, or similar program for attendees.
 *   Offer **childcare and nursing rooms** for parents of young children.
 
