@@ -5,7 +5,7 @@ Please review the considerations below to make sure we have a great event. Conta
 ## Licensing
 
 *   **My materials are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, except where otherwise noted.
-*   If you produce recordings, they must be under a [Creative Commons license](https://creativecommons.org/licenses/), or at least licensed to me such that I can redistribute it. (For example: **I need to be able to post recordings on Internet Archive and YouTube.**)
+*   I own and retain the rights to official recordings of my presentation and grant you license to use, modify, and redistribute them. (For example: **I need to be able to post recordings on Internet Archive and YouTube.**)
 
 ## Setup and AV
 
