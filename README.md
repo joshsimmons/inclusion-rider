@@ -7,4 +7,4 @@ The author's intent is to use whatever leverage they may have as a speaker to en
 
 Pull requests welcome!
 
-These materials are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+These materials are licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
