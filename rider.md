@@ -4,7 +4,7 @@ Please review the considerations below to make sure we have a great event. Conta
 
 ## Licensing
 
-*   **My materials are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, except where otherwise noted.
+*   **My materials are licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**, except where otherwise noted.
 *   I own and retain the rights to official recordings of my presentation and grant you license to use, modify, and redistribute them. (For example: **I need to be able to post recordings on Internet Archive and YouTube.**)
 
 ## Setup and AV
@@ -34,4 +34,4 @@ Please review the considerations below to make sure we have a great event. Conta
 *   Gender parity with men, women, and nonbinary people.
 *   Include people with disabilities, people of color, and LGBTQIA+ people.
 
-This speaker's rider is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+This speaker's rider is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
